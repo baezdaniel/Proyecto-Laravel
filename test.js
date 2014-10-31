@@ -1,6 +1,6 @@
 function test()
 {
-	alert("11122");
+	alert("121122");
 }
 
 test();
