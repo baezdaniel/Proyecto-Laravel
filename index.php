@@ -1,6 +1,6 @@
 <?php 
 
-echo("Hi .. Daniel Baez");
+echo("Hi .. Daniel");
 
 ?>
 
